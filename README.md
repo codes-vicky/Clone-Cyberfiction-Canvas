@@ -11,6 +11,13 @@ A modern web project built with **HTML, CSS, JavaScript, GSAP animations, and Ca
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images%20video/2.gif" 
+       alt="Coder Animation" 
+       width="500" />
+</p>
+
+
 ## ✨ Features
 
 - 🌐 Responsive modern web design  
@@ -23,10 +30,14 @@ A modern web project built with **HTML, CSS, JavaScript, GSAP animations, and Ca
 # cyberfiction website clone
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/cyberfiction/main/redmi%20images%20video/2.gif" alt="Coder Animation" width="500" height="400" />  
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction/main/redmi%20images%20video/2.gif" alt="Coder Animation" width="500" height="400" />  
 </p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub stars](https://img.shields.io/github/stars/codes-vicky/cyberfiction?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/codes-vicky/cyberfiction?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![GitHub stars](https://img.shields.io/github/stars/codes-vicky/Clone-Cyberfiction-Canvas?style=for-the-badge) 
+![GitHub forks](https://img.shields.io/github/forks/codes-vicky/Clone-Cyberfiction-Canvas?style=for-the-badge)
+
+
 
 A modern software project built with cutting-edge technologies.
 
@@ -141,6 +152,8 @@ This project is open source. Please check the repository for license information
 - Thanks to all contributors who have helped shape this project
 - Inspired by the open-source community
 - Built with ❤️ and modern development practices
+- 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub stars](https://img.shields.io/github/stars/codes-vicky/Clone-Cyberfiction-Canvas?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/codes-vicky/Clone-Cyberfiction-Canvas?style=for-the-badge)
 
 ## 📊 Project Stats
 
