@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/5.png" 
        alt="Coder Animation" 
-       width="700" />
+       width="600" />
 </p>
 
 
@@ -99,7 +99,7 @@ Visit `http://localhost:3000` to view the application.
 <p align="center">
   <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/mockuper.png" 
        alt="Coder Animation" 
-       width="500" />
+       width="400" />
 </p>
 
 
