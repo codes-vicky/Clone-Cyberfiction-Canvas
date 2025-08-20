@@ -1,4 +1,13 @@
-# Clone-Cyberfiction-Canvas
+# Clone-Cyberfiction website- using Canvas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/5.gif" 
+       alt="Coder Animation" 
+       width="500" />
+</p>
+
+
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -12,10 +21,11 @@ A modern web project built with **HTML, CSS, JavaScript, GSAP animations, and Ca
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images%20video/2.gif" 
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/Untitled%20design.gif" 
        alt="Coder Animation" 
        width="500" />
 </p>
+
 
 
 ## ✨ Features
@@ -30,8 +40,12 @@ A modern web project built with **HTML, CSS, JavaScript, GSAP animations, and Ca
 # cyberfiction website clone
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction/main/redmi%20images%20video/2.gif" alt="Coder Animation" width="500" height="400" />  
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/Natural%20Free%20Guide%20Lead%20Magnet%20Mockup%20Promotion%20Facebook%20Cover.gif" 
+       alt="Natural Free Guide Lead Magnet Mockup Promotion Facebook Cover" 
+       width="500" 
+        />
 </p>
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![GitHub stars](https://img.shields.io/github/stars/codes-vicky/Clone-Cyberfiction-Canvas?style=for-the-badge) 
@@ -83,7 +97,9 @@ Visit `http://localhost:3000` to view the application.
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/cyberfiction/main/redmi%20images%20video/4.png" alt="Coder Animation" width="700" height="450" />  
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/mockuper.gif" 
+       alt="Coder Animation" 
+       width="500" />
 </p>
 
 
