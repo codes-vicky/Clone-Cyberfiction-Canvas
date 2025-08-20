@@ -152,9 +152,9 @@ We welcome contributions! Here's how you can help:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/22.gif" 
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/21.png" 
        alt="Coder Animation" 
-       width="700" />
+       width="500" />
 </p>
 
 
@@ -183,6 +183,13 @@ This project is open source. Please check the repository for license information
 - 🍴 Forks: 0
 - 🐛 Issues: 0
 - 📝 Language: JavaScript
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/56.png" 
+       alt="Coder Animation" 
+       width="500" />
+</p>
 
 ---
 
