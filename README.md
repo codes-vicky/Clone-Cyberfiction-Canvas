@@ -152,7 +152,7 @@ We welcome contributions! Here's how you can help:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/4.png" 
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/23.png" 
        alt="Coder Animation" 
        width="500" />
 </p>3
