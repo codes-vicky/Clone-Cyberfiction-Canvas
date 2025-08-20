@@ -152,11 +152,10 @@ We welcome contributions! Here's how you can help:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/21.png" 
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/4.png" 
        alt="Coder Animation" 
        width="500" />
-</p>
-
+</p>3
 
 ## 📄 License
 
@@ -165,16 +164,15 @@ This project is open source. Please check the repository for license information
 ## 👥 Authors
 
 - **codes-vicky** - *Project Creator* - [@codes-vicky](https://github.com/codes-vicky)
-- <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/cyberfiction/main/redmi%20images%20video/Natural%20Free%20Guide%20Lead%20Magnet%20Mockup%20Promotion%20Facebook%20Cover.gif" alt="Coder Animation" width="700" height="450" />  
-</p>
+  
+
 
 ## 🙏 Acknowledgments
 
 - Thanks to all contributors who have helped shape this project
 - Inspired by the open-source community
 - Built with ❤️ and modern development practices
-- 
+  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub stars](https://img.shields.io/github/stars/codes-vicky/Clone-Cyberfiction-Canvas?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/codes-vicky/Clone-Cyberfiction-Canvas?style=for-the-badge)
 
 ## 📊 Project Stats
@@ -186,7 +184,7 @@ This project is open source. Please check the repository for license information
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/56.png" 
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/22.gif" 
        alt="Coder Animation" 
        width="500" />
 </p>
