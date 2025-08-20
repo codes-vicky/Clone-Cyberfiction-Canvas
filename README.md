@@ -1,9 +1,9 @@
 # Clone-Cyberfiction website- using Canvas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/5.gif" 
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/5.png" 
        alt="Coder Animation" 
-       width="500" />
+       width="700" />
 </p>
 
 
@@ -97,7 +97,7 @@ Visit `http://localhost:3000` to view the application.
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/mockuper.gif" 
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/mockuper.png" 
        alt="Coder Animation" 
        width="500" />
 </p>
@@ -150,6 +150,11 @@ We welcome contributions! Here's how you can help:
 - Include steps to reproduce the issue
 - Add relevant labels
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/4.png" 
+       alt="Coder Animation" 
+       width="600" />
+</p>
 
 
 ## 📄 License
