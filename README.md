@@ -1,3 +1,25 @@
+# Clone-Cyberfiction-Canvas
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![GSAP](https://img.shields.io/badge/gsap-88CE02?style=for-the-badge&logo=greensock&logoColor=white) 
+![GitHub stars](https://img.shields.io/github/stars/codes-vicky/Clone-Cyberfiction-Canvas?style=for-the-badge) 
+![GitHub forks](https://img.shields.io/github/forks/codes-vicky/Clone-Cyberfiction-Canvas?style=for-the-badge)
+
+A modern web project built with **HTML, CSS, JavaScript, GSAP animations, and Canvas** to replicate the Cyberfiction-style website with smooth, creative effects.
+
+---
+
+## ✨ Features
+
+- 🌐 Responsive modern web design  
+- 🎨 Smooth GSAP animations for engaging UI  
+- 🖼️ Canvas rendering for interactive effects  
+- ⚡ Lightweight & fast performance  
+- 📱 Works across desktop and mobile  
+
+---
 # cyberfiction website clone
 
 <p align="center">
@@ -130,3 +152,4 @@ This project is open source. Please check the repository for license information
 ---
 
 ⭐️ If you found this project helpful, please give it a star!
+
