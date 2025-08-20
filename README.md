@@ -150,10 +150,11 @@ We welcome contributions! Here's how you can help:
 - Include steps to reproduce the issue
 - Add relevant labels
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/4.png" 
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/22.gif" 
        alt="Coder Animation" 
-       width="600" />
+       width="700" />
 </p>
 
 
@@ -184,6 +185,8 @@ This project is open source. Please check the repository for license information
 - 📝 Language: JavaScript
 
 ---
+
+
 
 ⭐️ If you found this project helpful, please give it a star!
 
