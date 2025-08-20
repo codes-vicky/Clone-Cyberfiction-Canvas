@@ -1,9 +1,9 @@
 # Clone-Cyberfiction website- using Canvas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/5.gif" 
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/5.png" 
        alt="Coder Animation" 
-       width="500" />
+       width="700" />
 </p>
 
 
@@ -97,7 +97,7 @@ Visit `http://localhost:3000` to view the application.
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/mockuper.gif" 
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/mockuper.png" 
        alt="Coder Animation" 
        width="500" />
 </p>
@@ -151,6 +151,12 @@ We welcome contributions! Here's how you can help:
 - Add relevant labels
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codes-vicky/Clone-Cyberfiction-Canvas/main/redmi%20images/22.gif" 
+       alt="Coder Animation" 
+       width="700" />
+</p>
+
 
 ## 📄 License
 
@@ -179,6 +185,8 @@ This project is open source. Please check the repository for license information
 - 📝 Language: JavaScript
 
 ---
+
+
 
 ⭐️ If you found this project helpful, please give it a star!
 
